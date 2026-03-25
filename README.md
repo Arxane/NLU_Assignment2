@@ -86,3 +86,17 @@ python problem1_task4.py
 ## where to check results
 - problem 1: `deliverables/task1`, `deliverables/task2`, `deliverables/task3`, `deliverables/task4`
 - problem 2: `problem2_outputs`
+
+
+## external help used
+i used ai support mainly to speed up repetitive work, like:
+- refactoring repeated code blocks
+- cleaning up comments and making style consistent
+- drafting and polishing documentation text
+
+i also used it for a few more complex parts as a thinking partner, such as:
+- checking edge cases in crawling and text cleaning
+- validating logic for cbow/skip-gram training pipeline
+- improving readability of pipeline
+
+all final code decisions, testing, and output checks were done manually in this project setup.
