@@ -1,10 +1,10 @@
-# nlu assignment 2
+# NLU Assignment 2
 
 this repo contains two parts:
 - problem 1: word2vec from scratch pipeline (crawl -> train -> analyze -> visualize)
 - problem 2: character-level name generation with rnn, blstm, and attention
 
-## problem 1 (brief)
+## problem 1
 problem 1 builds custom cbow and skip-gram embeddings without gensim.
 
 flow:
@@ -16,7 +16,7 @@ flow:
 main entry:
 - `main_problem1.py`
 
-## problem 2 (brief)
+## problem 2
 problem 2 trains sequence models on indian names and compares generation quality.
 
 flow:
